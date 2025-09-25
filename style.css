@@ -1,0 +1,30 @@
+body{
+  background-color: #acc0f5;
+  padding: 5%;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.catPiano{
+  height: 35%;
+  width: 35%;
+}
+
+.crocPiano{
+  height: 35%;
+  width: 35%;
+}
+
+.space{
+  opacity: 0%;
+}
+
+.billyReference{
+  width: 60%;
+}
+
+.systemMap{
+  width: 100%;
+}
